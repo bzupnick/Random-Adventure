@@ -1,0 +1,1 @@
+This is a script that randomly generates a basic command-line game map. 
